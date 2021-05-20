@@ -22,4 +22,4 @@ github-readme-stats-lyart-eight.vercel.app
 ![Anurag's GitHub stats](https://github-readme-stats-lyart-eight.vercel.app/api?username=hanacurk&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats-lyart-eight.vercel.appp/api/top-langs/?username=hanacurk)](https://github.com/hanacurk/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lyart-eight.vercel.app/api/top-langs/?username=hanacurk)](https://github.com/hanacurk/github-readme-stats)
