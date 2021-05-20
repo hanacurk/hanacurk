@@ -19,7 +19,7 @@ github-readme-stats-lyart-eight.vercel.app
 
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats-lyart-eight.vercel.app/api?username=hanacurk&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-brown-eight.vercel.app/api?username=hanacurk)
 
 
 [![Top Langs](https://github-readme-stats-brown-eight.vercel.app/api/top-langs/?username=hanacurk&count_private=true)](https://github.com/hanacurk/github-readme-stats)
