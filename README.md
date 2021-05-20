@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+github-readme-stats-lyart-eight.vercel.app
+
+
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats-lyart-eight.vercel.app/api?username=hanacurk&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats-lyart-eight.vercel.appp/api/top-langs/?username=hanacurk&count_private=true)](https://github.com/hanacurk/github-readme-stats)
